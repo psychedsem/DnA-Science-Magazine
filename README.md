@@ -1,4 +1,4 @@
-# DnA — Science Magazine
+# DnA - Science Magazine
 
 ![DnA — Science Magazine](DnA%20\(cover\).png)
 
