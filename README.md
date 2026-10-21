@@ -2,8 +2,6 @@
 
 ![DnA — Science Magazine](DnA%20\(cover\).png)
 
-> 🚧 **Work in Progress**
-
 ## 🇬🇧 English
 
 ### Overview
